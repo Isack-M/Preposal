@@ -2,12 +2,13 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A website that will keep track of business sales and income.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+None
 
 ## Do you have any questions of your own?
 
-TODO
+Can a user module be added?
+
